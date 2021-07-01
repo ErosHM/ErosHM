@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ErosHM
 - 👀 I’m interested in learning how things works
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on education
+- 🌱 I’m currently learning Python, Java and Kotlin
 - 📫 How to reach me: eros-hm@hotmail.com
 
 <!---
